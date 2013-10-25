@@ -1,0 +1,73 @@
+<ProdList>
+  <product>
+    <name>Palit GeForce GT440</name>
+    <category>Відеокарти</category>
+    <description>Тип интерфейса:PCI-Express
+Видеопроцессор:GeForce 4х серия
+Охлаждение:Активное (кулер)
+Объем:1024
+Тип:GDDR5</description>
+    <price>561</price>
+    <imagePath>../../images/palit_geforce_gt440.jpg</imagePath>
+    <availabled>YES</availabled>
+  </product>
+  <product>
+    <name>Sapphire Radeon HD6670</name>
+    <category>Відеокарти</category>
+    <description>Тип интерфейса:PCI-Express
+Видеопроцессор:Radeon HD 6х серия
+Охлаждение:Активное (кулер)
+Объем:1024
+Тип:GDDR5</description>
+    <price>635</price>
+    <imagePath>../../images/sapphire_radeon_hd6670.jpg</imagePath>
+    <availabled>NO</availabled>
+  </product>
+  <product>
+    <name>Intel Core i5-3570K</name>
+    <category>Процессори</category>
+    <description>Socket:LGA1155
+Частота процессора:3400
+Количество ядер:4
+L2:1024 Кб</description>
+    <price>1927</price>
+    <imagePath>../../images/intel_core_i5.jpg</imagePath>
+    <availabled>PreOrder</availabled>
+  </product>
+  <product>
+    <name>Transcend JM800QSU-2G</name>
+    <category>Оперативна память</category>
+    <description>Назначение:для ноутбуков
+Тип:DDR2
+Объем:2 Гб
+Количество модулей:1 модуль</description>
+    <price>196</price>
+    <imagePath>../../images/transcend_jm800qsu-2g.jpg</imagePath>
+    <availabled>YES</availabled>
+  </product>
+  <product>
+    <name>Seagate ST2000DM001</name>
+    <category>Жорсткі диски</category>
+    <description>Форм-фактор: 3.5
+Объем HDD: 2000
+Объем буферной памяти: 64
+Скорость вращения: 7200
+Интерфейс: SATA 6Gb/s
+Поддержка NCQ: да</description>
+    <price>861</price>
+    <imagePath>../../images/seagate_st2000.jpg</imagePath>
+    <availabled>YES</availabled>
+  </product>
+  <product>
+    <name>Trimax TR-2012HD</name>
+    <category>Інше</category>
+    <description>Тип:цифровой
+Тип исполнения:внешний
+Тип подключения:автономный
+FM-тюнер:нет
+Поддержка HD:да</description>
+    <price>544</price>
+    <imagePath>../../images/trimax_tr_2012hd.jpg</imagePath>
+    <availabled>PreOrder</availabled>
+  </product>
+</ProdList>
